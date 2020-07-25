@@ -4,7 +4,7 @@ A summary of the ride-sharing data by city type is compiled using pandas. Then a
 
 ## Result:
 
-1. From the below DataFrame, we can summarize that Urban type has the most total number of rides(1,625), drivers(59,602) and fares($39,854) while Rural has the least number of riders(125), drivers(537) and fares($4327.93). Urban area has the most demands in general. In addition, there more total drivers a city type has, the less its average fare per ride and its average fare per driver; this may due to more competitions or less kilometer per ride in urban area. 
+1. From the below DataFrame, we can summarize that Urban type has the most total number of rides(1,625), drivers(2,405) and fares($39,854) while Rural has the least number of riders(125), drivers(78) and fares($4327.93). Urban area has the most demands in general. In addition, there more total drivers a city type has, the less its average fare per ride and its average fare per driver; this may due to more competitions or less kilometer per ride in urban area. 
 
 <img src="Ride_Sharing_Data.PNG" width="800"> 
 
